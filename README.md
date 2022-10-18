@@ -1,2 +1,2 @@
 # gdbimla.github.io
-# gdbimla.github.io
+ It's not responsive.
